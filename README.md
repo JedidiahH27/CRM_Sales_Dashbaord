@@ -22,3 +22,7 @@ Filter by region and manager
 # 📊 Example Visuals
 
 ![Dashboard Screenshot](visuals/CRM_Dashboard.png)
+
+# View On Google Sheets
+
+https://docs.google.com/spreadsheets/d/1y_DKCbyQXdMfwnDnDyy70AZmdvyRHbGB23cVznxLwvM/edit?usp=sharing
