@@ -21,3 +21,4 @@ Filter by region and manager
 
 # 📊 Example Visuals
 
+![Dashboard Screenshot](visuals/CRM_Dashboard.png)
