@@ -1,4 +1,4 @@
-# CRM_Sales_Dashboard
+# CRM Sales Dashboard
 
 A comprehensive and interactive dashboard designed to visualize key sales and customer relationship management (CRM) metrics. This project empowers business teams to track sales performance, monitor KPIs, and gain insights into customer behavior through clean and dynamic visuals.
 
